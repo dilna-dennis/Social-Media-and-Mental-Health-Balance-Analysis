@@ -9,4 +9,5 @@ Social Media and Mental Health Balance – Data Analysis Project explores the re
 
 
 
-# Social-Media-and-Mental-Health-Balance-Analysis
+# Social-Media-and-Mental-Health-Balance-Analysis<img width="1632" height="770" alt="Screenshot 2026-01-28 125709" src="https://github.com/user-attachments/assets/c9a248e2-2394-4003-b557-f4ba46c45c56" />
+
